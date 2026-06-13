@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Nguyễn Đức Hoàng
 
-<!--
-**hoangaxm09-wq/hoangaxm09-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Management Information Systems Student
 
-Here are some ideas to get you started:
+💻 ASP.NET Core MVC Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 SQL Server | Power BI | Excel
+
+---
+
+## 🚀 Tech Stack
+
+- C#
+- ASP.NET Core MVC
+- SQL Server
+- Power BI
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hoangaxm09-wq&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangaxm09-wq&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hoangaxm09-wq&theme=tokyonight)
